@@ -6,7 +6,8 @@ Bienvenido a la colección de proyectos Python dedicados a la resolución de pro
 
 Cada subdirectorio representa un proyecto individual, diseñado para ser autónomo y funcional. Encontrarás:
 
--   **`python_rp_resistor_calculator/`**: Una calculadora de valor de resistencias de 4 bandas, útil para la electrónica y como ejemplo básico de interacción con el usuario.
+-   **`python_rp_resistor_color_calculator/`**: Una calculadora de valor de resistencias de 4 bandas por código de colores, útil para la electrónica.
+-   **`python_rp_series_parallel_calculator/`**: Una calculadora robusta para determinar la resistencia total de circuitos en serie o paralelo.
 -   [Aquí se irán listando otros proyectos a medida que los agregues, con una breve descripción de cada uno.]
 
 ## Objetivo

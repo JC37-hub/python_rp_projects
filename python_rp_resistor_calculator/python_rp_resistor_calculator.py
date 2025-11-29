@@ -6,7 +6,7 @@
 # in Ohms, kOhms, or MOhms, including its tolerance.
 #
 # Program: resistor_calculator.py
-# Author : Natsuki (AI Assistant)
+# Author : Juan Carlos with Natsuki assistance
 # Date   : Nov 28, 2025
 #===================================================
 
